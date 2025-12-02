@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Game Division Committee Member",
+    "organisation": "IRGL 2024",
+    "startDate": "Feb, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": ["Designed and built a complete 2D platformer game in Unity specifically for the Semi-Final phase.",
+    " Implemented core gameplay mechanics, level design, and asset integration to ensure a polished experience.",
+    " Collaborated with the event committee to align the game with competition objectives and technical requirements.",
+    " Helped facilitate an event involving ±140 high-school teams (±420 students) from across Indonesia."],
+    "imageSrc": "history/IRGL_2024.png"
+  },
+  {
+    "role": "Game Division Committee Member",
+    "organisation": "IRGL 2025",
+    "startDate": "May, 2025",
+    "endDate": "Nov, 2025",
+    "experiences": ["Designed and built a full 3D game in Unity for the Elimination phase, including gameplay systems, environment setup, and asset integration.",
+    " Ensured game performance, stability, and fairness to support competition requirements.",
+    " Contributed to organizing an event involving ±120 high-school teams from across Indonesia."],
+    "imageSrc": "history/IRGL_2025.png"
+  }
+]

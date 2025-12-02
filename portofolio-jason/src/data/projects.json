@@ -1,0 +1,43 @@
+[
+  {
+    "title": " Bookstore - Web Application",
+    "imageSrc": "projects/Wibook.png",
+    "description": "Built a full-stack bookstore application using Laravel, combining a modern Tailwind CSS interface with a robust backend. The system supports a complete e-commerce workflow, including product browsing, checkout, order processing, and secure payment integration through the Midtrans API.",
+    "skills": ["PHP", "HTML", "CSS","Laravel"],
+    "github": "https://github.com/ChristopherLouisT/BookStoreUX",
+    "source": ""
+  },
+  {
+    "title": " Bookstore UI Duplication - Web Application",
+    "imageSrc": "projects/UI_Replica2.png",
+    "description": "Developed a full UI replica of the Gramedia online bookstore using Laravel, recreating core pages such as the homepage, book lists, contact page, and about page interfaces with high visual accuracy. The project features a fully responsive layout built with Tailwind CSS. Using Laravel, I maintained a modular structure with reusable layouts while ensuring pixel-perfect styling and solid UX consistency.",
+    "skills": ["PHP", "HTML", "CSS","Laravel"],
+    "github": "https://github.com/Zuka-Nakirigumi/Bookstore-UI-Replica",
+    "source": ""
+  },
+    {
+    "title": " Handwriting Recognition - AI",
+    "imageSrc": "projects/Handwriting.png",
+    "description": "Developed a handwriting recognition system using a custom-labeled dataset designed specifically for the task. The workflow includes image preprocessing such as normalization, resizing, and noise reduction to enhance model performance. I trained and compared multiple models—SVC, a Sequential Neural Network, and a CNN—optimizing their architectures to improve accuracy and generalization.",
+    "skills": ["Tensorflow", "Sklearn","Python"],
+    "github": "https://github.com/Zuka-Nakirigumi/Handwritting-Recognition",
+    "source": ""
+  },
+  {
+    "title": " N8N Discord Finance Bot - AI",
+    "imageSrc": "projects/n8n.png",
+    "description": "Created an automated Discord finance bot using n8n as the workflow engine, capable of scraping real-time stock prices, market summaries, and financial indicators from Yahoo Finance. The data is then processed through the Gemini API to generate insights and analyses before being formatted and sent directly to Discord channels.",
+    "skills": ["Javascript", "Webhook"],
+    "github": "",
+    "source": "assets/projects/PPT_Generative_AI-N8N.pdf"
+  },
+   {
+    "title": " Chatbot - AI",
+    "imageSrc": "projects/Chatbot.png",
+    "description": "Developed a handwriting recognition system using a custom-labeled dataset designed specifically for the task. The workflow includes image preprocessing such as normalization, resizing, and noise reduction to enhance model performance. I trained and compared multiple models—SVC, a Sequential Neural Network, and a CNN—optimizing their architectures to improve accuracy and generalization.",
+    "skills": ["Langchain", "Gradio","Python"],
+    "github": "https://github.com/Zuka-Nakirigumi/Canteen-Menu-Chatbot",
+    "source": ""
+  }
+
+]
